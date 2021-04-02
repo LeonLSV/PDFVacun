@@ -45,7 +45,6 @@ const styles = StyleSheet.create({
   },
   image: {
     width: "100%",
-    // padding: 10,
   },
 });
 
